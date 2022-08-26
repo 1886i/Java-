@@ -1,2 +1,7 @@
-# Java-
-用于目前Java学习
+import java.sql.*
+
+public class Main{
+  public static void main(String[] args}{
+  
+  }
+}
